@@ -1,5 +1,5 @@
 # PowerBI Reports
 
-This repository contains PDF static rendition of Power BI Dashboards
+This repository contains PDF static rendition of Power BI Reports
 
 Credits: SS-UNITECH
